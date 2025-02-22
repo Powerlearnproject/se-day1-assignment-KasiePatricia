@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 
 # Part 1: Introduction to Software Engineering
 
-### Q1. Explain what software engineering is and discuss its importance in the technology industry.
+### 1. Explain what software engineering is and discuss its importance in the technology industry.
 
 A1. Software engineering is a systematic, disciplined, and quantifiable approach to the design, development, operation, and maintenance of software. It applies engineering principles and methodologies to create high-quality, reliable, and efficient software systems. This field encompasses a wide range of activities, including:
 
@@ -29,7 +29,7 @@ Conclusion
 Software engineering is the backbone of the technology industry, ensuring that software systems are developed in a structured, efficient, and reliable manner. Its importance cannot be overstated, as it directly impacts the quality, cost, and success of software projects, thereby driving technological advancement and innovation.
 
 
-### Q2. Identify and describe at least three key milestones in the evolution of software engineering.
+### 2. Identify and describe at least three key milestones in the evolution of software engineering.
 
 ### A2. The evolution of software engineering has been marked by several key milestones that have significantly shaped the field. Here are three of the most important ones:
 
@@ -49,7 +49,7 @@ Description: The Agile Manifesto, published in 2001, introduced a set of princip
 Impact: Agile transformed the way software is developed, making the process more adaptive to changing requirements and fostering closer collaboration between developers and stakeholders. It has become one of the most influential paradigms in modern software engineering.
 
 
-### Q3. List and briefly explain the phases of the Software Development Life Cycle.
+### 3. List and briefly explain the phases of the Software Development Life Cycle.
 
 A3. The Software Development Life Cycle (SDLC) is a structured process that outlines the steps involved in developing software systems. It ensures that the software is developed in a systematic and efficient manner. The SDLC typically consists of the following phases:
 
@@ -94,7 +94,7 @@ Summary
 The SDLC provides a framework for developing high-quality software in a structured and efficient manner. Each phase has specific goals and deliverables, ensuring that the software development process is well-organized and that the final product meets the required standards and user expectations.
 
 
-### Q4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+### 4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 ### A4. 
 #### Waterfall Methodology
@@ -162,7 +162,7 @@ Comparison
 Choosing between Waterfall and Agile depends on the nature of the project, the stability of requirements, and the level of stakeholder involvement. Waterfall is suitable for projects with well-defined requirements and little expected change, while Agile is ideal for projects requiring flexibility and continuous feedback. Understanding the strengths and weaknesses of each methodology helps in selecting the right approach for a given project.
 
 
-### Q5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+### 5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 ### A5. In a software engineering team, each role has distinct responsibilities that contribute to the successful development and delivery of software projects. Here’s a detailed description of the roles and responsibilities of a Software Developer, a Quality Assurance (QA) Engineer, and a Project Manager:
 
@@ -209,7 +209,7 @@ Responsibilities:
 - Documentation: Maintain project documentation, including plans, reports, and meeting minutes.
 
 
-### Q6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+### 6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 ### A6. Integrated Development Environments (IDEs):
 
@@ -242,7 +242,7 @@ Conclusion:
 IDEs and VCS are essential for efficient, collaborative, and high-quality software development. They streamline coding, debugging, and version management, making them indispensable tools for developers.
 
 
-### Q7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+### 7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 A7. Software engineers face a variety of challenges throughout the software development lifecycle. Here are some common challenges and strategies to overcome them:
 
@@ -284,7 +284,7 @@ A7. Software engineers face a variety of challenges throughout the software deve
 
 
 
-### Q8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+### 8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 ### A8. Types of Testing in Software Quality Assurance
 
@@ -368,7 +368,7 @@ Together, these testing phases ensure reliable, high-quality software.
 # Part 2: Introduction to AI and Prompt Engineering
 
 
-### Q1. Define prompt engineering and discuss its importance in interacting with AI models.
+### 1. Define prompt engineering and discuss its importance in interacting with AI models.
 
 ### A1. **Prompt Engineering**
 
@@ -419,7 +419,7 @@ Prompt engineering is the process of designing and refining inputs (prompts) to 
 Prompt engineering is a critical skill for effectively interacting with AI models. By crafting clear, specific, and well-structured prompts, users can unlock the full potential of AI, ensuring accurate, relevant, and high-quality outputs. It bridges the gap between human intent and AI capabilities, making AI tools more accessible and useful.
 
 
-### Q2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+### 2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 ### A2. Example of a Vague Prompt vs. Improved Prompt
 
